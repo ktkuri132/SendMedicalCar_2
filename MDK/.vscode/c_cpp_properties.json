@@ -3,17 +3,14 @@
         {
             "name": "SMC2",
             "includePath": [
-                "c:\\Users\\ktkuru\\Desktop\\SendMedicalCar_2\\CORE",
-                "c:\\Users\\ktkuru\\Desktop\\SendMedicalCar_2\\STM32F429_FWLIB\\inc",
-                "c:\\Users\\ktkuru\\Desktop\\SendMedicalCar_2\\SYSTEM\\delay",
-                "c:\\Users\\ktkuru\\Desktop\\SendMedicalCar_2\\SYSTEM\\sys",
-                "c:\\Users\\ktkuru\\Desktop\\SendMedicalCar_2\\SYSTEM\\usart",
-                "c:\\Users\\ktkuru\\Desktop\\SendMedicalCar_2\\USER",
-                "C:\\Users\\ktkuru\\AppData\\Local\\Keil_v5\\ARM\\ARMCC\\include",
-                "C:\\Users\\ktkuru\\AppData\\Local\\Keil_v5\\ARM\\ARMCC\\include\\arm_linux",
-                "C:\\Users\\ktkuru\\AppData\\Local\\Keil_v5\\ARM\\ARMCC\\include\\arm_linux_compat",
-                "C:\\Users\\ktkuru\\AppData\\Local\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\ktkuru\\Desktop\\SendMedicalCar_2\\STM32F429_FWLIB\\src"
+                "c:\\Users\\63459\\Desktop\\SendMedicalCar_2\\CORE",
+                "c:\\Users\\63459\\Desktop\\SendMedicalCar_2\\STM32F429_FWLIB\\inc",
+                "c:\\Users\\63459\\Desktop\\SendMedicalCar_2\\SYSTEM\\delay",
+                "c:\\Users\\63459\\Desktop\\SendMedicalCar_2\\SYSTEM\\sys",
+                "c:\\Users\\63459\\Desktop\\SendMedicalCar_2\\SYSTEM\\usart",
+                "c:\\Users\\63459\\Desktop\\SendMedicalCar_2\\USER",
+                "E:\\keil524\\ARM\\ARMCC\\include",
+                "c:\\Users\\63459\\Desktop\\SendMedicalCar_2\\STM32F429_FWLIB\\src"
             ],
             "defines": [
                 "STM32F429_439xx",
