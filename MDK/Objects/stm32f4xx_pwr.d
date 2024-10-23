@@ -2,7 +2,7 @@
 .\objects\stm32f4xx_pwr.o: ..\STM32F429_FWLIB\inc\stm32f4xx_pwr.h
 .\objects\stm32f4xx_pwr.o: ..\USER\stm32f4xx.h
 .\objects\stm32f4xx_pwr.o: ..\CORE\core_cm4.h
-.\objects\stm32f4xx_pwr.o: C:\Users\ktkuru\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f4xx_pwr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\stm32f4xx_pwr.o: ..\CORE\core_cmInstr.h
 .\objects\stm32f4xx_pwr.o: ..\CORE\core_cmFunc.h
 .\objects\stm32f4xx_pwr.o: ..\CORE\core_cmSimd.h

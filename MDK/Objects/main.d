@@ -1,7 +1,7 @@
 .\objects\main.o: ..\USER\main.c
 .\objects\main.o: ..\USER\stm32f4xx.h
 .\objects\main.o: ..\CORE\core_cm4.h
-.\objects\main.o: C:\Users\ktkuru\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\main.o: ..\CORE\core_cmInstr.h
 .\objects\main.o: ..\CORE\core_cmFunc.h
 .\objects\main.o: ..\CORE\core_cmSimd.h

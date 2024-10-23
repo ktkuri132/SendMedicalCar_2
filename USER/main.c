@@ -24,7 +24,7 @@ int main()
 
 	while(1) 
     {
-		PBout(0) = 0;
+		    PBout(0) = 0;
         delay_ms(500);
         PBout(0) = 1;
         delay_ms(500);

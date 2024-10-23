@@ -2,7 +2,7 @@
 .\objects\stm32f4xx_lptim.o: ..\STM32F429_FWLIB\inc\stm32f4xx_lptim.h
 .\objects\stm32f4xx_lptim.o: ..\USER\stm32f4xx.h
 .\objects\stm32f4xx_lptim.o: ..\CORE\core_cm4.h
-.\objects\stm32f4xx_lptim.o: C:\Users\ktkuru\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f4xx_lptim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\stm32f4xx_lptim.o: ..\CORE\core_cmInstr.h
 .\objects\stm32f4xx_lptim.o: ..\CORE\core_cmFunc.h
 .\objects\stm32f4xx_lptim.o: ..\CORE\core_cmSimd.h

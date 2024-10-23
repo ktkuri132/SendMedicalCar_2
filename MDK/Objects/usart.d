@@ -2,7 +2,7 @@
 .\objects\usart.o: ..\SYSTEM\sys\sys.h
 .\objects\usart.o: ..\USER\stm32f4xx.h
 .\objects\usart.o: ..\CORE\core_cm4.h
-.\objects\usart.o: C:\Users\ktkuru\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\usart.o: ..\CORE\core_cmInstr.h
 .\objects\usart.o: ..\CORE\core_cmFunc.h
 .\objects\usart.o: ..\CORE\core_cmSimd.h
@@ -39,5 +39,5 @@
 .\objects\usart.o: ..\STM32F429_FWLIB\inc\stm32f4xx_ltdc.h
 .\objects\usart.o: ..\STM32F429_FWLIB\inc\stm32f4xx_sai.h
 .\objects\usart.o: ..\SYSTEM\usart\usart.h
-.\objects\usart.o: C:\Users\ktkuru\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
-.\objects\usart.o: C:\Users\ktkuru\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
